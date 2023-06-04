@@ -1,4 +1,5 @@
 # bunny-jump
+HTML5 Infinite Jumper game built with Phaser
 
 ## Run locally
 
